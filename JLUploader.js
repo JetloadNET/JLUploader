@@ -2,7 +2,7 @@
 const fs = require('fs')
 var request = require('request');
 const axios = require('axios');
-const settings = require('/opt/settings.json');
+const settings = require('/opt/express/settings.json');
 
 var isRunning = false;
 if (isRunning == true) {
