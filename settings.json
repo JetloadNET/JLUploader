@@ -4,8 +4,8 @@
   "isRunning": "false",
   "status": "Active",
   "log_format":"1",
-  "log_file": "/opt/urls_log.txt",
-  "system_log": "/opt/uploaded.txt",
+  "log_file": "/opt/express/urls_log.txt",
+  "system_log": "/opt/express/uploaded.txt",
   "max_simultaneous_uploads":"5"
 }
  
