@@ -1,0 +1,11 @@
+{
+  "API_KEY":"xxx",
+  "VIDEOS_LOCATION":"/YourVideoLocation/",
+  "isRunning": "false",
+  "status": "Active",
+  "log_format":"1",
+  "log_file": "/opt/urls_log.txt",
+  "system_log": "/opt/uploaded.txt",
+  "max_simultaneous_uploads":"5"
+}
+ 
