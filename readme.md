@@ -1,6 +1,6 @@
 Install our JLUploader
 
-Tutorial for CentOS with NodeJS pre-installed
+                                         Tutorial for CentOS with NodeJS pre-installed
 
 
 - mkdir /opt/express/
@@ -12,10 +12,9 @@ Tutorial for CentOS with NodeJS pre-installed
 
 - Run /opt/express/JLUploader.js and launch http://server_ip:1000/ in browser
 
-Done!
 
 
-Guide for installing on Ubuntu/Debian/Linux Mint 
+                                          Guide for installing on Ubuntu/Debian/Linux Mint 
 
 - sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
 - curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
